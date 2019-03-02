@@ -3,4 +3,4 @@
 *.md
 /.htaccess
 /.gitignore
-/vendor
+/public_hmtl/documentation
